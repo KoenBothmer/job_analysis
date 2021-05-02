@@ -10,7 +10,8 @@ To get a general idea of the project it is sufficient to just load the notebook 
 * Save all contents of this repository to a local directory (referred to as "yourdir")
 * Make sure to have Docker installed on your local machine
 * Open a command prompt
-* Run the command "yourdir\docker-compose up -d --build"
+* Navigate to "yourdir"
+* Run the command "docker-compose up -d --build"
 * Navigate to the Jupyter environment  http://localhost:8888/
 * The token is "Seminar"
 * Acces the "Work" dir which is in sync with "yourdir"
