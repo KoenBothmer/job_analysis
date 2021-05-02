@@ -6,7 +6,7 @@ The main idea of this project is to use web scraping and text mining techniques 
 ## Techniques used
 A notebook is included to this repository which shows how vacancy texts can be scraped using Beautiful Soup and then text mined using a simple bigram analysis.
 ## Launch
-To get a general idea of the project it is sufficient to just load the notebook directly from this repository. To make more extensive use of the code it is recommended to run it in a copy of the Docker container this work was produced in. To do this follow these steps:
+To get a general idea of the project it is sufficient to just load the notebook "Vacancy_Analysis_Paper.IPYNB" directly from this repository. To make more extensive use of the code it is recommended to run it in a copy of the Docker container this work was produced in. To do this follow these steps:
 * Save all contents of this repository to a local directory (referred to as "yourdir")
 * Make sure to have Docker installed on your local machine
 * Open a command prompt
