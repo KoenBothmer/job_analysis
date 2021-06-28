@@ -1,6 +1,6 @@
 # job_analysis
 ## Please Note:
-For some reason, Github sometimes randomly fails to render the notebooks as provided. It can be viewed without having to download it to your own Jupyter instance through nbviewer, e.g.: https://nbviewer.jupyter.org/github/KoenBothmer/rescue_drivers_prediction/blob/main/Data_Preparation/Vacancy_Analysis_Paper.ipynb.ipynb
+For some reason, Github sometimes randomly fails to render the notebooks as provided. It can be viewed without having to download it to your own Jupyter instance through nbviewer, e.g.: https://nbviewer.jupyter.org/github/KoenBothmer/rescue_drivers_prediction/blob/main/Data_Preparation/Vacancy_Analysis_Paper.ipynb
 
 
 ## Introduction
