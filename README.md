@@ -1,4 +1,8 @@
 # job_analysis
+## Please Note:
+For some reason, Github sometimes randomly fails to render the notebooks as provided. It can be viewed without having to download it to your own Jupyter instance through nbviewer, e.g.: https://nbviewer.jupyter.org/github/KoenBothmer/rescue_drivers_prediction/blob/main/Data_Preparation/Vacancy_Analysis_Paper.ipynb.ipynb
+
+
 ## Introduction
 Welcome to the repository of the notebook supporting the paper "Differences and Similarities in Jobs in the Data Domain" by Koen Bothmer. This paper and notebook were produced as an examination excercice for the class "Seminar: Current Topics in Data Science" at International University. This work was submitted to Turnitin but for the reference of those not involved in the class the paper was also included to the Github repository where this notebook can be found.
 ### Main idea
